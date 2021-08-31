@@ -1,5 +1,7 @@
 """
+Autoprint by QR Code
 Developped by Riad DRAOUI, september 2021
+Github : @riaadoo
 """
 
 import cv2
